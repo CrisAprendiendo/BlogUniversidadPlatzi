@@ -13,3 +13,5 @@ Ejemplo de proyecto en Git con Platzi
 [Roadmap]
 
 [Licencia]
+
+Autor: miloutco
